@@ -1,0 +1,10 @@
+KIẾN THỨC HỌC ĐƯỢC
+- tiếp tục tìm hiểu vue js
+- học hỏi thêm về cấu trúc dữ liệu và giải thuật
+- luyện tập rest api
+
+KHÓ KHĂN
+- chưa tìm được cách kết nối api hiệu quả
+
+HƯỚNG GIẢI QUYẾT
+- đọc tìm hiểu tài liệu, luyện tập thêm
