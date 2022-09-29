@@ -1,0 +1,18 @@
+ ----------//--------------
+/  KIẾN THỨC HỌC ĐƯỢC    /
+-----------//------------
+- tìm hiểu cách kết nối front-end và back-end thông qua api
+- tìm hiểu cơ bản về blockchain
+- học hỏi thêm kiến thức về giải thuật
+- luyện tập rest api
+
+ ----------//--------------
+/       KHÓ KHĂN         /
+-----------//------------
+- vue js không hiển thị được
+
+ ----------//--------------
+/    HƯỚNG GIẢI QUYẾT    /
+-----------//------------
+- đọc tìm hiểu tài liệu, luyện tập thêm
+- nhờ trợ giúp
